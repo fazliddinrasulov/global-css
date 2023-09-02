@@ -158,4 +158,11 @@ ul {
   margin-top: 1rem;
 }
 
+.text-small {
+  font-size: var(--small-text);
+  font-style: italic;
+  font-weight: 300;
+  color: var(--grey-200);
+}
+
 /* ============= PROJECT CSS =============== */
